@@ -9,7 +9,7 @@ with open("example.json", "r") as json_file:
 # del a["Media"]["OnlyFans"]
 # print(a)
 
-# работа только с питоновским словарем а не с json
+# только python словарь 
 # a["Mass"] = [1, "h", {"a": 1}, [1, 2, 3]]
 # print(a)
 
