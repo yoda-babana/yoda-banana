@@ -1,0 +1,21 @@
+{
+  "Name": "Igor",
+  "Phone": "123456789",
+  "Media": {
+    "VK": "https://vk.com/igor",
+    "YouTube": "youtube.com/igor",
+    "OnlyFans": null
+  },
+  "Mass": [
+    1,
+    "h",
+    {
+      "a": 1
+    },
+    [
+      1,
+      2,
+      3
+    ]
+  ]
+}
